@@ -5,15 +5,15 @@ Repositorio de aprendizaje de machine learnig y análisi de datos
 
 
 ## Montaje del entorno 
-
+```
 Crear entorno virtual de python 
 
 python3 -m venv .venv
 source .venv/bin/activate
-
+```
 
 ## Estructura 
-
+```
 lab-datos/
 ├── data/
 ├── notebooks/
@@ -22,3 +22,4 @@ lab-datos/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
+```
