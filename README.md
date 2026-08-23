@@ -1,7 +1,7 @@
 
 # OBJETIVO
 
-Repositorio de aprendizaje de machine learnig y análisi de datos
+Repositorio de aprendizaje de Machine Learning y análisis de datos
 
 
 ## Montaje del entorno 
